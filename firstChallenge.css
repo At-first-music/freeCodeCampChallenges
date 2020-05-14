@@ -1,0 +1,47 @@
+body {
+  font-family: sans-serif;
+  margin: 10px 5px 10px 5px;
+}
+main {
+  padding-top: 10px;
+  border: 0px solid #E0E0E0;
+  border-radius: 5px;
+  border-box-color: #E0E0E0;
+  background: #E0E0E0;
+}
+header, h3, figure, footer {
+  text-align: center;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: auto;
+  line-height: 25px;
+}
+li {
+  padding: 5px 0px 5px 0px;
+}
+figure {
+  background-color: white;
+  margin: 0px 10px 0px 10px;
+  
+}
+img {
+  display: block;
+  max-width: 500em;
+  margin: auto;
+}
+figcaption {
+  padding: 10px 0px 10px 0px;
+}
+article {
+  font-style: italic;
+  font-family: cursive;
+  font-size: 17px;
+}
+footer {
+  margin-top: 40px;
+  font-size: 18px;
+  font-weight: 600;
+}
